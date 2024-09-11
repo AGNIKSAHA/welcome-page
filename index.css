@@ -1,6 +1,7 @@
 div{
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(240, 9, 9);
     width: 800px;
     height: 400px;
+    color: white;
 }
